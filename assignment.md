@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-3.3.md
+Assignment 3.3 — Ordered, Unordered & Nested Lists[cite: 13]
+What to build: A webpage containing information about your college or course.[cite: 13]
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Write an introduction for the college/course.[cite: 13]
+2. Make a list of departments or subjects using `<ul>`.[cite: 13]
+3. Show the admission process using `<ol>`.[cite: 13]
+4. Arrange topics of any subject in a nested list.[cite: 13]
+5. Use `<dl>`, `<dt>`, and `<dd>` for details of teachers or courses.[cite: 13]
+6. Organize the page through headings and sections.[cite: 13]
+Submission: The `college-info.html` file and a browser screenshot.[cite: 13]
